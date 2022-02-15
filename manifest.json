@@ -4,7 +4,7 @@
     "start_url":".",
     "background_color": "#5c85d6",
     "theme_color": "#3377ff",
-    "display":"standalone",
+    "display":"fullscreen",
     "icons" : [
         {
             "src": "./images/logo192x192.png",
